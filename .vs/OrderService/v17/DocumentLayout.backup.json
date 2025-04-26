@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhis\\source\\repos\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\init-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\init-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|c:\\users\\abhis\\source\\repos\\orderservice\\orderservice\\init-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E2CB1343-AE15-441E-92CB-F8C6C56DBF73}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\init-db.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:16:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T07:59:25.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:59:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T07:51:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:51:41.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "init-db.sql ",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\init-db.sql",
+              "RelativeDocumentMoniker": "OrderService\\init-db.sql",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\init-db.sql",
+              "RelativeToolTip": "OrderService\\init-db.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-26T08:34:35.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "OrderService\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\KafkaProducer.cs",
+              "RelativeToolTip": "OrderService\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:40:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "OrderService\\docker-compose.yaml",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\docker-compose.yaml",
+              "RelativeToolTip": "OrderService\\docker-compose.yaml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-26T09:26:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\dockerfile",
+              "RelativeDocumentMoniker": "OrderService\\dockerfile",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\dockerfile",
+              "RelativeToolTip": "OrderService\\dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T09:26:12.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Models\\OrderDto.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\Models\\OrderDto.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:17:44.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

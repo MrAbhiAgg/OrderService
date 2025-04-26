@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "x6k2T61EsXQwMhP02nmV1sQzh5fij5wJMeI4F8au2cY=",
+  "Source": "OrderService",
+  "BasePath": "_content/OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OrderService\\wwwroot",
+      "Source": "OrderService",
+      "ContentRoot": "C:\\Users\\abhis\\source\\repos\\OrderService\\OrderService\\wwwroot\\",
+      "BasePath": "_content/OrderService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
