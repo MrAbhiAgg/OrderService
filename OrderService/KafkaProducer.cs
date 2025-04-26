@@ -20,8 +20,16 @@ namespace OrderService
 
         public async Task SendAsync(string message)
         {
-            await _producer.ProduceAsync(_topic, new Message<Null, string> { Value = message });
-            Console.WriteLine($"Produced message to Kafka: {message}");
+            try
+            {
+                await _producer.ProduceAsync(_topic, new Message<Null, string> { Value = message });
+                Console.WriteLine($"Produced message to Kafka: {message}");
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine("Error " + e.Message);
+            }
+            
         }
     }
 

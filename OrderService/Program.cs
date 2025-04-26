@@ -130,8 +130,8 @@ void CreateKafkaTopic(string topicName, string bootstrapServers)
             new TopicSpecification
             {
                 Name = topicName,
-                NumPartitions = 2,
-                ReplicationFactor = 2
+                NumPartitions = 1,
+                ReplicationFactor = 1
             }
             }).Wait();
 

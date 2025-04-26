@@ -36,7 +36,6 @@ namespace OrderService.Controllers
             return CreatedAtAction(nameof(GetOrder), new { id = order.Id }, order);
         }
 
-        // GET: api/order/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<Order>> GetOrder(int id)
         {
